@@ -1,0 +1,19 @@
+{
+  "name": "capacitor-ios-video-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "sync": "cap sync",
+    "open:ios": "cap open ios",
+    "dev": "sirv dist/ --host"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/core": "^5.2.2",
+    "@capacitor/ios": "^5.2.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^5.2.2",
+    "sirv-cli": "^2.0.2"
+  }
+}
